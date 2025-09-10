@@ -26,7 +26,7 @@ The release of powerful AI models proved to be a turning point. I was inspired t
 #### AI & Machine Learning
 - **Groq**: High-speed LLM-based chat  
 - **Cohere**: Natural language processing  
-- **Pillow**: Image processing  
+- **Pillow and hugging face**: Image processing  
 - **model**: openai/gpt-oss-120b
 
 #### GUI  
